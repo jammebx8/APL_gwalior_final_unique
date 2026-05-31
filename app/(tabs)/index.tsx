@@ -82,7 +82,7 @@ export default function Dashboard() {
       <View style={styles.header}>
         <View style={styles.headerTitleContainer}>
             <Feather name="activity" size={24} color="#067A46" style={{marginRight: 8}}/>
-            <Text style={styles.headerTitle}>NutriTrack</Text>
+            <Text style={styles.headerTitle}>Nutriaa</Text>
         </View>
    
       </View>

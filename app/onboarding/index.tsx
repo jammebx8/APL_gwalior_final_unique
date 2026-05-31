@@ -32,7 +32,7 @@ export default function BasicInformation() {
         <Feather name="arrow-left" size={24} color="#067A46" onPress={() => router.back()} />
         <View style={styles.headerTitleContainer}>
             <Feather name="activity" size={24} color="#067A46" style={{marginRight: 8}}/>
-            <Text style={styles.headerTitle}>NutriTrack</Text>
+            <Text style={styles.headerTitle}>Nutriaa</Text>
         </View>
         <Feather name="aperture" size={24} color="#067A46" />
       </View>
