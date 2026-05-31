@@ -23,8 +23,10 @@
       "package": "com.siee2.Friday"
     },
     "web": {
-      "output": "static",
-      "favicon": "./assets/images/favicon.png"
+    
+      "favicon": "./assets/images/favicon.png",
+      "bundler": "metro",
+      "output": "static"
     },
     "plugins": [
       "expo-router",
